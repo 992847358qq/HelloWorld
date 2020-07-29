@@ -4,7 +4,7 @@ package practice;
  */
 public class Demo {
     public static void main(String[] args) {
-        String str="13abf";
+        /*String str="13abf";
         int len = str.length();
         System.out.println(len);
         int sum = 0;
@@ -15,7 +15,7 @@ public class Demo {
         }
         System.out.println(sum);
         int s=Integer.parseInt(str,16);
-        System.out.println(s);
+        System.out.println(s);*/
 
     }
     public static void test(){
